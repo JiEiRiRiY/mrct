@@ -1,6 +1,6 @@
 Type: Package
 Package: mrct
-Title: Outlier detection of functional data based on the minimum regularized covariance trace estimator
+Title: Outlier Detection of Functional Data Based on the Minimum Regularized Covariance Trace Estimator
 Version: 0.0.1.0
 Authors@R: c(person(given = "Jeremy", family = "Oguamalam", email = "jeremy.oguamalam@tuwien.ac.at", role = c("aut","cre")),person(given = "Una", family = "Radojičić", role = c("aut")),person(given = "Peter", family = "Filzmoser", role = c("aut")))
 Maintainer: Jeremy Oguamalam <jeremy.oguamalam@tuwien.ac.at>
