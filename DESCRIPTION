@@ -1,0 +1,14 @@
+Type: Package
+Package: mrct
+Title: Outlier detection of functional data based on the minimum regularized covariance trace estimator
+Version: 0.0.1.0
+Authors@R: c(person(given = "Jeremy", family = "Oguamalam", email = "jeremy.oguamalam@tuwien.ac.at", role = c("aut","cre")),person(given = "Una", family = "Radojičić", role = c("aut")),person(given = "Peter", family = "Filzmoser", role = c("aut")))
+Maintainer: Jeremy Oguamalam <jeremy.oguamalam@tuwien.ac.at>
+Description: Detect outlying observations in functional data sets based on the minimum regularized covariance trace (MRCT) estimator. Includes implementation of Oguamalam et al. (2023) <arXiv:2307.13509>.
+License: GPL (>= 2)
+Depends: R (>= 4.2.0)
+Encoding: UTF-8
+Imports: fda, fdapace, ggplot2, Rdpack, reshape2, robustbase, stats    
+RdMacros: Rdpack
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
